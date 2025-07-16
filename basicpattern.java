@@ -1,3 +1,2 @@
-public class basicpattern 
-  {
-    
+public class basicpattern  {
+public 
