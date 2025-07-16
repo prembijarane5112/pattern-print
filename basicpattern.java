@@ -1,2 +1,2 @@
 public class basicpattern  {
-public static  
+public static void 
