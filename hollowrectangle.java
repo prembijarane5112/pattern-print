@@ -1,32 +1,45 @@
-public class hollowrectangle {
-public static void main(String args[])
+public class hollowrectangle 
 {
 
-int n=5;
-
-//print row
-
-for(int row=1 ; row<=n;  row++){
-
-//print col 
-
-for(int col=1; col <=n; col++)
+public static void rectangle(int totrows,int totcols)
 {
 
-if( row ==1 || col==1 || row==n || col== n ) 
+//inner loop - row 
+
+for(int row = 1 ;row<=totrows ; row ++ )
+{
+//outer loop -  coloumn 
+
+for ( int col =1 ; col<=totcols ; col ++ )
+{
+
+if( row == 1 || row ==totrows || col == 1 || col == totcols ) 
+
 {
 
 System.out.print("*");
 
 }
+
 else {
+
 System.out.print(" ");
+}
 
 }
-}
+
 System.out.println();
-
-}
-}
 }
 
+}
+
+public static void  main(String args[] ) 
+{
+
+ rectangle(4,5 );
+
+}
+
+}
+
+ 

@@ -12,9 +12,9 @@ for(int row=1;row <=n;row++){
 
 for(int col=1;col<=n;col++)
 {
-if( col ==1 || row ==1 || row ==3 ||  ) 
+if( col ==1 ||  col == 2|| row ==1 || row ==3 ) 
 {
-System.out.print("*");
+System.out.print("* ");
 
 }
 else {
