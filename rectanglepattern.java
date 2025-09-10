@@ -45,6 +45,13 @@ int n=4;
 
   //print the no output by smae number like 1 1 1 1
   int n=4;
+for(int i=1;i<=n;i++)
+  {
+for(int j=1;j<=n;j++)
+  {
+System.out.print(i +" ");
+  }
+  }
 
 //  print as as this number instead of npattern
   
