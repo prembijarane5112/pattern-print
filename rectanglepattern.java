@@ -53,6 +53,16 @@ System.out.print(i +" ");
   }
   }
 
+
+//output of this code 
+
+1  1  1  1
+2  2  2  2
+3  3  3  3
+4  4  4  4
+
+
+  
 //  print as as this number instead of npattern
   
 // this is startrangle pattern
