@@ -29,3 +29,10 @@ int n=4;
 System.out.print("*" +" ");
     }
 }
+
+
+// output of this code
+* 
+*  *
+*  *  *
+*  *  *  *
