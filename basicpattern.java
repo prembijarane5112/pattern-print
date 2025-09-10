@@ -18,3 +18,6 @@ for(int i=0;i<=n;i++){
   *  *  *  *  
   *  *  *  *
   
+
+
+//  print as as this number instead of npattern
