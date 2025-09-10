@@ -27,6 +27,9 @@ int n=4;
     for(int j=1;j<=n;j++)
       {
         //print a star
+        System.out.print(j + " ");
+      }
+    
         
     
 
