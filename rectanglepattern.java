@@ -17,7 +17,18 @@ for(int i=0;i<=n;i++){
   *  *  *  * 
   *  *  *  *  
   *  *  *  *
-  
+
+
+  //replace star by the number like 1 2 3 4 
+
+int n=4;
+  for(int i=1;i<=n;i++)//this is row used
+  {
+    for(int j=1;j<=n;j++)
+      {
+        //print a star
+        
+    
 
 
 //  print as as this number instead of npattern
