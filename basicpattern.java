@@ -21,3 +21,6 @@ for(int i=0;i<=n;i++){
 
 
 //  print as as this number instead of npattern
+
+int n=4;
+  for(int i=1;i<=n;
