@@ -1,3 +1,3 @@
 class tringlepattern{
 
-public static void 
+public static void  main(
