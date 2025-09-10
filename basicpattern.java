@@ -13,4 +13,4 @@ for(int i=0;i<=n;i++){
 
 
 //output of this code 
-  *  *  *  *
+  *  *  *  *  *
