@@ -29,8 +29,7 @@ int n=4;
         //print a star
         System.out.print(j + " ");
       }
-    
-        
+    System.out.println();
     
 
 
