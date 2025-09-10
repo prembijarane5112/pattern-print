@@ -30,8 +30,21 @@ int n=4;
         System.out.print(j + " ");
       }
     System.out.println();
+  }
+
+//output of this code
+1  2  3  4
+1  2  3  4 
+1  2  3  4
+1  2  3  4
+
+  
     
 
+
+
+  //print the no output by smae number like 1 1 1 1
+  int n=4;
 
 //  print as as this number instead of npattern
   
