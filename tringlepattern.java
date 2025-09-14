@@ -29,7 +29,7 @@ public static void  main(String args[])
    que 2-- print a same but replace by number
    class tringlepattern
    {
-     public static  void main(
+     public static  void main(String 
      
    
 
