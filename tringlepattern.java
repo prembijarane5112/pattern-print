@@ -16,4 +16,18 @@ public static void  main(String args[])
 }
           
 
-                        
+      // output of this code
+ *
+ *  *
+ *  *  *
+ *  *  *  *
+
+
+
+
+
+   que 2-- print a same but replace by number
+   
+
+
+   
