@@ -30,6 +30,8 @@ public static void  main(String args[])
    class tringlepattern
    {
      public static  void main(String args[])
+     {
+       
      
    
 
