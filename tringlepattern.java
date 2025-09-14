@@ -68,7 +68,12 @@ for(int j=1;j<=i;j++){
       }
   }
 }
-   
+
+output of this code
+  1
+  2 2 
+  3 3 3 
+  4 4 4 4
 
 
    
