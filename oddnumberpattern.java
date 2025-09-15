@@ -12,3 +12,14 @@ for(int j=1;j<=i;j++)
       }
   }
 }
+
+
+
+output of this code
+  1
+  1 3
+  1 3 5 
+  1 3 5 7
+  1 3 5 7 9
+
+  
