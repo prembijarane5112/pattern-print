@@ -1,2 +1,2 @@
 pubic class oddnumberpattern{
-  public static 
+  public static void 
